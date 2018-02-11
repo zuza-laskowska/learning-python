@@ -1,0 +1,608 @@
+[
+  {
+    "id": 842,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.04248,
+      "longitude": 19.94433
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Kalwaryjska 30",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 1014,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.055164,
+      "longitude": 19.947015
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "38",
+      "route": "Starowiślna",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 1026,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.038497,
+      "longitude": 19.946849
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "30",
+      "route": "Krzemionki",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 625,
+    "name": "PolskaOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.08069,
+      "longitude": 19.99238
+    },
+    "pollutionLevel": 0,
+    "address": {
+      "route": "prof. Michała Życzkowskiego",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 189,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.062418,
+      "longitude": 19.928368
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "27",
+      "route": "Studencka",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 195,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.066686,
+      "longitude": 19.997208
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "141",
+      "route": "Aleja Pokoju",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 196,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.066747,
+      "longitude": 19.962083
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "6",
+      "route": "Kielecka",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 201,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.054907,
+      "longitude": 19.956501
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "9",
+      "route": "Masarska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 202,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.005587,
+      "longitude": 19.928973
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "21",
+      "route": "Antoniego Szyllinga",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 204,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.062006,
+      "longitude": 19.940984
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "4B",
+      "route": "Mikołajska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 205,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.088719,
+      "longitude": 19.910314
+    },
+    "pollutionLevel": 0,
+    "address": {
+      "route": "Ludomira Różyckiego",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 210,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.062677,
+      "longitude": 20.018922
+    },
+    "pollutionLevel": 4,
+    "address": {
+      "streetNumber": "12G",
+      "route": "Sołtysowska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 220,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.079671999999995,
+      "longitude": 19.949189999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "3",
+      "route": "Rogatka",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 221,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.085346,
+      "longitude": 20.007551
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "26",
+      "route": "Osiedle Dywizjonu 303",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 223,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.025251,
+      "longitude": 19.937998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "19",
+      "route": "Ferdynanda Kurasia",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 228,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.013155999999995,
+      "longitude": 19.906306
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "30",
+      "route": "Obozowa",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 140,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.057745999999995,
+      "longitude": 19.961374
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "1A",
+      "route": "Aleja Pokoju",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 622,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.044418,
+      "longitude": 19.952199
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "11",
+      "route": "Krakusa",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2701,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.056919,
+      "longitude": 19.929685
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "18",
+      "route": "Felicjanek",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 147,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.048924,
+      "longitude": 19.962260999999998
+    },
+    "pollutionLevel": 0,
+    "address": {
+      "streetNumber": "8",
+      "route": "Ślusarska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 500,
+    "name": "PolskaOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.023998,
+      "longitude": 19.932161
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "6",
+      "route": "Hoffmanowej",
+      "locality": "Kraków-Podgórze",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 1096,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.064479,
+      "longitude": 19.93176
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Karmelicka 14",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 820,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.052433,
+      "longitude": 19.949579
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Starowiślna 79",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 857,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.037662,
+      "longitude": 19.9906
+    },
+    "pollutionLevel": 0,
+    "address": {
+      "streetNumber": "35",
+      "route": "Seweryna Goszczyńskiego",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2277,
+    "name": "Aviva",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.056537,
+      "longitude": 19.954228999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Prochowa 1",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2271,
+    "name": "Aviva",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.086574,
+      "longitude": 19.974823999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "36",
+      "route": "Lublańska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 1065,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.078914,
+      "longitude": 19.971742
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Pilotów 39",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2309,
+    "name": "Aviva",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.031093,
+      "longitude": 19.940088
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Wadowicka 8a",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2364,
+    "name": "PolskaOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.061557,
+      "longitude": 19.928490999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "3",
+      "route": "plac Sikorskiego",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2395,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.018004999999995,
+      "longitude": 19.983933999999998
+    },
+    "pollutionLevel": 4,
+    "address": {
+      "streetNumber": "14",
+      "route": "Na Kozłówce",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2339,
+    "name": "Aviva",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.082885,
+      "longitude": 19.953466
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "",
+      "route": "Wileńska 4",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2565,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.084132999999994,
+      "longitude": 19.968415999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "17A",
+      "route": "Macieja Miechowity",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 2935,
+    "name": "eurobank",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.072967,
+      "longitude": 19.914828999999997
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "88",
+      "route": "Królewska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 174,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.057241999999995,
+      "longitude": 19.914873999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "7",
+      "route": "Leona Wyczółkowskiego",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 176,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.044067,
+      "longitude": 19.998804
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "59",
+      "route": "Myśliwska",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 179,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.07769,
+      "longitude": 19.935776999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "22",
+      "route": "Prądnicka",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 184,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.047736,
+      "longitude": 19.919646
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "6",
+      "route": "Adolfa Nowaczyńskiego",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 214,
+    "name": "KrakówOddycha",
+    "vendor": "Airly",
+    "location": {
+      "latitude": 50.071718999999995,
+      "longitude": 19.962346999999998
+    },
+    "pollutionLevel": 3,
+    "address": {
+      "streetNumber": "16",
+      "route": "Generała Józefa Bema",
+      "locality": "Kraków",
+      "country": "Poland"
+    }
+  }
+]
