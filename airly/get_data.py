@@ -6,9 +6,10 @@ import json
 def parse_sensors_current(text_json):
     parsed = json.loads(text_json)
     # print(type(parsed))
+    sensors = []
+
     for sensor_data in parsed:
         sensor_id = sensor_data['id']
-
         # tworzymy pełny adres sensora w formacie: route, streetNumber, locality
 
         address = sensor_data['address']['route']
@@ -28,11 +29,14 @@ def parse_sensors_current(text_json):
 
         address += ", " + sensor_data['address']['locality']
 
-        # print("sensor_id streetNumber= " + str(sensor_id))
-        # print("address = " + address)
-        # print("-"*30)
-        # print(str(sensor_data))
-        # break
+        sensors.append([sensor_id, address])
+
+    return sensors
+
+
+def add_sensor(sensor_id, address):
+    print (sensor_id)
+    print (address)
 
 
 with open('sensors_current.json', 'r') as myfile: # otwiera plik do odczytu
@@ -44,3 +48,13 @@ with open('sensors_current.json', 'r') as myfile: # otwiera plik do odczytu
 # print(parsed)
 
 parse_sensors_current(sensors_current)
+sensor_list = parse_sensors_current(sensors_current)
+
+sensor = sensor_list[0]
+# element_id = sensor[0]
+# element_address = sensor[1]
+element_id, element_address = sensor
+add_sensor(element_id, element_address)
+
+# json_string = json.dumps(sensor_list, indent=4, sort_keys=True)
+# print (json_string)
